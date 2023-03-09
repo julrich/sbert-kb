@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 screenshots/
+/pages-*
+pages_all_extracted_sections.jsonl
+top2vec.model
